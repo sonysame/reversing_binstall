@@ -71,6 +71,10 @@ I didn't know the meaning of the function sub\_10002710, so I looked up the writ
 
 After I downloaded the low version of firefox.exe and execute binstall.exe, nothing happened. So, I forced to inject browserassist.dll to firefox.exe using InjectDll.exe. 
 
+![](https://user-images.githubusercontent.com/24853452/52226612-ce4e2280-28f0-11e9-8313-7ef833fef186.png)
+
+![](https://user-images.githubusercontent.com/24853452/52226647-e4f47980-28f0-11e9-8e3f-895580a2ecd1.png)
+
 Now, when I type "su", it works!
 
 ![](https://user-images.githubusercontent.com/24853452/52224243-e02cc700-28ea-11e9-9851-f3f3a567de8f.png)
