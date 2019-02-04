@@ -46,7 +46,9 @@ First of all, binstall.exe is *.net* structure. So I use dnSpy to analyze the bi
 
 At smethod_6, we can know that this program is using DLL Injection(AppInit\_DLLs). The DLL file is *C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\browserassist.dll* (string\_0).
 
+
 #### browserassist.dll
+
 ![](https://user-images.githubusercontent.com/24853452/52222430-cee1bb80-28e6-11e9-9c0a-60123c78407d.PNG)
 
 ![](https://user-images.githubusercontent.com/24853452/52222604-3f88d800-28e7-11e9-9c45-4d255ec06fb4.png)
