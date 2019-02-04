@@ -1,6 +1,6 @@
-##reversing_binstall
+## reversing_binstall
 
-###DLL Injection
+### DLL Injection
 
 
 
@@ -14,7 +14,7 @@ There are mainly three ways to do DLL Injection.
 3. Message Hooking (SetWindowsHookEx() API)
 
 ***
-####CreateRemoteThread() API
+#### CreateRemoteThread() API
 
 I use the **InjectDll.exe** which works as DLL injector. This program uses **CreateRemoteThread() API** in order to execute thread to another process.     **CreateRemoteThread() API** will call LoadLibraryW() to load DLL. 
 
